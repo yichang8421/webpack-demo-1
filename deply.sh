@@ -1,3 +1,5 @@
+chmod +x deply.sh &&
+
 yarn build &&
 git checkout gh-pages &&
 rm -rf *.html *.js *.css *.png &&
