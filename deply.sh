@@ -4,6 +4,4 @@ rm -rf *.html *.js *.css *.png &&
 mv dist/* ./ &&
 rm -rf dist;
 
-git add . &&
-git commit -m 'autoUpdate' &&
 git checkout -
