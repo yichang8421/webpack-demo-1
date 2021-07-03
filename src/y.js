@@ -1,3 +1,3 @@
-require('./y.css');
+require('./y.less');
 
-console.log('zheshiy');
+// console.log('zheshiy');

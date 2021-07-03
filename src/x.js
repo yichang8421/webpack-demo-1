@@ -1,4 +1,4 @@
-import './x.css';
+import './x.scss';
 
 
 export default 'xxx';

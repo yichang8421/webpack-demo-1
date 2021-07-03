@@ -18,6 +18,7 @@ module.exports = {
     ],
     module: {
         rules: [
+            ...base.module.rules,
             {
                 test: /\.css$/i,
                 // 查找以.css结尾的文件
