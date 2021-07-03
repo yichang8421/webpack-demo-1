@@ -4,4 +4,4 @@ rm -rf *.html *.js *.css *.png &&
 mv dist/* ./ &&
 rm -rf dist;
 
-git status
+git status -sb
